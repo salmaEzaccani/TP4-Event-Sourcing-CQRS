@@ -37,6 +37,3 @@
 
 <img src="captures/6V2.png">
 
-- ACCOUNT BY ID :
-
-<img src="captures/7V2.png">
